@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 2: FOSS Package Inspector
-# Author: Bhav Simar
+# Author: Shashank Singh
 # Course: Open Source Software
 
 PACKAGE="python3"
